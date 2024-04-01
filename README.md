@@ -15,4 +15,6 @@ Currently, two official plugins are available:
 // https://stackoverflow.com/questions/16344354/how-to-make-blinking-flashing-text-with-css-3
 // https://stackoverflow.com/questions/15469036/css3-animations-hard-blink-no-fade-inbetween-frames
 // https://www.w3schools.com/howto/howto_css_dividers.asp
-// 
+// https://www.freecodecamp.org/news/get-started-with-vite/
+// https://react-bootstrap.netlify.app/docs/layout/grid
+// https://medium.com/@samleashrauner/add-a-favicon-to-your-vite-pwa-70d03009b4be

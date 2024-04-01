@@ -2,6 +2,7 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 import './App.css'
+import Container from 'react-bootstrap/Container';
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -16,6 +17,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a> */}
       </div>
+      <Container fluid>
       <h1>Code_Deck<span className="blink_me"> |</span></h1>
       <h2>The Card Game</h2>
       <p>V_0.35.03312024</p>
@@ -38,7 +40,7 @@ function App() {
       <br></br>
       <br></br>
       <div className="iframeBorder">
-        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRohqIRTd15mcLTmXfKva4-QaCmzbjmEQ2-csYA5OjG-CiKt6x2M78ardC7A7IfPmgIN981nupt3s8D/pubhtml?widget=true&amp;headers=false" width="1000" height="800"></iframe>
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRohqIRTd15mcLTmXfKva4-QaCmzbjmEQ2-csYA5OjG-CiKt6x2M78ardC7A7IfPmgIN981nupt3s8D/pubhtml?widget=true&amp;headers=false" width="100%" height="800"></iframe>
       </div>
       <br></br>
       <br></br>
@@ -46,6 +48,7 @@ function App() {
       <h2>Game Rules (Variant 02):</h2>
       </div>
       <h1>COMING SOON!</h1>
+      </Container>
       <hr className="solid"></hr>
         <p>Code_Deck: The Card Game &copy; 2022-2024 | A.I. Chasm Games | A Division of Ponder Enterprises LLC</p>
     </>
