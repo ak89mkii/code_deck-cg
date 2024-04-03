@@ -18,9 +18,9 @@ function App() {
         </a> */}
       </div>
       <Container fluid>
-      <h1>Code_Deck<span className="blink_me"> |</span></h1>
+      <h1>code_deck<span className="blink_me"> |</span></h1>
       <h2>The Card Game</h2>
-      <p>V_0.35.03312024</p>
+      <p>V_0.35.04022024</p>
       {/* <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
