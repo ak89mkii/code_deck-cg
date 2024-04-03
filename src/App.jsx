@@ -50,8 +50,8 @@ function App() {
       <h1>COMING SOON!</h1>
       </Container>
       <hr className="solid"></hr>
-      <img src="../public/favicon.ico" width='100px'></img>
-      <p>A.I. Chasm Games</p>
+      {/* <img src="../public/favicon.ico" width='100px'></img> */}
+      {/* <p>A.I. Chasm Games</p> */}
       <p>Code_Deck: The Card Game &copy; 2022-2024 | A.I. Chasm Games | A Division of Ponder Enterprises LLC</p>
     </>
   )
