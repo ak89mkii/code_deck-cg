@@ -51,6 +51,8 @@ function App() {
       </Container>
       <hr className="solid"></hr>
         <p>Code_Deck: The Card Game &copy; 2022-2024 | A.I. Chasm Games | A Division of Ponder Enterprises LLC</p>
+        <img src="../public/favicon.ico" width='100px'></img>
+        <p>A.I. Chasm Games</p>
     </>
   )
 }
