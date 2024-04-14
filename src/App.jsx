@@ -3,6 +3,7 @@
 // import viteLogo from '/vite.svg'
 import './App.css'
 import Container from 'react-bootstrap/Container';
+import Diagram from './assets/01.png';
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -36,6 +37,11 @@ function App() {
       <br></br>      
       <div className='title'>
       <h2>Game Rules (Variant 01):</h2>
+      </div>
+      <br></br>
+      <br></br>
+      <div className="iframeBorder">
+        <img src={Diagram} width="100%"></img>
       </div>
       <br></br>
       <br></br>
